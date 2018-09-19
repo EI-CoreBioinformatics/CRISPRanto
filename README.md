@@ -1,4 +1,4 @@
-# CRISPRanto
+## CRISPRanto
 
 A (Snakemake) pipeline for CRISPR offtarget detection
 
