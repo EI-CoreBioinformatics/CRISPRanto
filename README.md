@@ -8,6 +8,7 @@ Used in Raitskin et al. (2018?)
 ### Requirements
 
 * Python3.5+ with latest Snakemake
+* ktio (pip install ktio)
 * jellyfish 2 (e.g. jellyfish-2.2.6)
 * bbmap >= 38.06
 * bedtools >= 2.26.0
